@@ -1,0 +1,14 @@
+box {
+  height: 450px;
+  flex-wrap: wrap;
+  padding: 2rem;
+  border: 1xp solid black;
+  border-radius:  8px;
+  justify-content: space-around;
+  overflow-y: hidden;
+  text-transform: capitalize;
+  font-weight: bold;
+  color: aliceblue;
+  background-color: orangered;
+  line-height: 1.2rem;
+}
